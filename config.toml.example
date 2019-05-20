@@ -1,0 +1,21 @@
+[Runtime]
+    MaxProcess = 100
+[Log]
+    Way = "file"
+    Destination = "logs/log.log"
+    ApplicationName = "Steam-confirm"
+
+[Main]
+    Partner = 0
+    Token = ""
+
+[MainAccount]
+username=""
+password=""
+sharedSecret=""
+
+[[Accounts]]
+username=""
+password=""
+sharedSecret=""
+identitySecret=""

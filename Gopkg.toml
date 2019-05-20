@@ -1,0 +1,11 @@
+[prune]
+  go-tests = true
+  unused-packages = true
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/zergu1ar/gaarx"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/zergu1ar/logrus-filename"
